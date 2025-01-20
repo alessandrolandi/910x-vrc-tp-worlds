@@ -1,0 +1,2 @@
+16
+{"last_modification_time":1558473414,"language":1,"import_file":"c:/users/kelle/desktop/my pros projects/worlds code/src/braindisplay/displaymain.c","args_hash":7935387309593025455,"includes":[],"dependencies":[],"skipped_by_preprocessor":[],"types":[],"funcs":[{"id":0,"usr":6452417559134354752,"detailed_name":"void dashboard_create()","short_name_offset":5,"short_name_size":16,"kind":12,"storage":1,"hover":"","comments":"","declarations":[],"spell":"7:6-7:22|-1|1|2","extent":"7:1-39:4|-1|1|0","bases":[],"derived":[],"vars":[],"uses":[],"callees":[]}],"vars":[]}
